@@ -4,7 +4,7 @@ import Heroimg from "../assets/pngwing 1.png";
 const Banner = () => {
   return (
     <section className="bg-white border-b border-gray-200 py-12 sm:py-14 lg:py-16">
-      <div className="w-11/12 mx-auto lg:ml-20">
+      <div className="w-11/12 mx-auto lg:px-24">
         <div className="flex flex-col-reverse lg:flex-row items-center justify-between gap-8 sm:gap-10">
           <div className="flex-1 text-center lg:text-left">
             <span className="inline-block text-xs font-medium text-gray-500 bg-gray-100 rounded-full px-3 py-1 mb-4 sm:mb-5">
